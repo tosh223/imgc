@@ -1,0 +1,4 @@
+ruby:2.7
+python:3.8-slim-buster
+golang:1.16-stretch
+gcr.io/google.com/cloudsdktool/cloud-sdk:latest
